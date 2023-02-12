@@ -14,6 +14,7 @@
 		65D47B2729991C890078F245 /* Pacifico-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 65D47B2629991C890078F245 /* Pacifico-Regular.ttf */; };
 		65D47B2C2999274F0078F245 /* myself.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 65D47B2B2999274F0078F245 /* myself.jpeg */; };
 		65D47B32299988390078F245 /* appstore.png in Resources */ = {isa = PBXBuildFile; fileRef = 65D47B31299988390078F245 /* appstore.png */; };
+		65D47B3429998D720078F245 /* ReadMe.md in Resources */ = {isa = PBXBuildFile; fileRef = 65D47B3329998D720078F245 /* ReadMe.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		65D47B28299920490078F245 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		65D47B2B2999274F0078F245 /* myself.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = myself.jpeg; path = ../../../../../../Desktop/myself.jpeg; sourceTree = "<group>"; };
 		65D47B31299988390078F245 /* appstore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appstore.png; sourceTree = "<group>"; };
+		65D47B3329998D720078F245 /* ReadMe.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		65D47B0B2998F5960078F245 = {
 			isa = PBXGroup;
 			children = (
+				65D47B3329998D720078F245 /* ReadMe.md */,
 				65D47B162998F5960078F245 /* BusinessCard */,
 				65D47B152998F5960078F245 /* Products */,
 			);
@@ -146,6 +149,7 @@
 			files = (
 				65D47B32299988390078F245 /* appstore.png in Resources */,
 				65D47B2729991C890078F245 /* Pacifico-Regular.ttf in Resources */,
+				65D47B3429998D720078F245 /* ReadMe.md in Resources */,
 				65D47B1F2998F5960078F245 /* Preview Assets.xcassets in Resources */,
 				65D47B1C2998F5960078F245 /* Assets.xcassets in Resources */,
 				65D47B2C2999274F0078F245 /* myself.jpeg in Resources */,
